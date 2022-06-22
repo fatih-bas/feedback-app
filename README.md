@@ -20,4 +20,6 @@ Npm install
 Npm run dev
 ```
 
+![ss](https://user-images.githubusercontent.com/47625725/175058478-ff5f206e-f764-463c-a9f9-e074d55e8c55.png)
+
   
